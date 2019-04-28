@@ -20,4 +20,5 @@ func main() {
 	fmt.Println(b)
 
 	//now slices
+
 }
